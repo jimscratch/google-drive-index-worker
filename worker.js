@@ -5,13 +5,13 @@ self.props = {
     default_root_id: 'root',
     client_id: '202264815644.apps.googleusercontent.com',
     client_secret: 'X4Z3ca8xfWDb1Voo-F9a7ZxJ',
-    refresh_token: '',
+    refresh_token: '1//0d7uHgksjuBjSCgYIARAAGA0SNwF-L9Ir6dy09xFvlp0XF0vmrYuLdqtKBSvJDv1RFz3gYQWqDul1iD1Q4q5R64_WDj6zA2UJnJw',
     service_account: false,
     service_account_json: sa_array[random],
-    auth: false,
-    user: '',
-    pass: '',
-    upload: false,
+    auth: true,
+    user: 'jimmy.briggs@jimbrig.com',
+    pass: 'M1$$ysusy1993google',
+    upload: true,
     lite: true, // do not change this to false
 
     description: 'Google Drive Index',
